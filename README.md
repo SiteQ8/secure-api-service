@@ -1,7 +1,7 @@
 # Secure API Service
 
-[![CI](https://github.com/username/secure-api-service/workflows/CI/badge.svg)](https://github.com/SiteQ8/secure-api-service/actions)
-[![Security Scan](https://github.com/SiteQ8/secure-api-service/workflows/Security%20Scan/badge.svg)](https://github.com/username/secure-api-service/actions)
+[![CI](https://github.com/SiteQ8/secure-api-service/workflows/CI/badge.svg)](https://github.com/SiteQ8/secure-api-service/actions)
+[![Security Scan](https://github.com/SiteQ8/secure-api-service/workflows/Security%20Scan/badge.svg)](https://github.com/SiteQ8/secure-api-service/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A secure, production-ready REST API service built with security-first principles and industry best practices.
