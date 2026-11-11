@@ -8,7 +8,7 @@ A secure, production-ready REST API service built with security-first principles
 
 ## Features
 
-- **Secure by Design**: Input validation, authentication, rate limiting, and comprehensive security controls
+- **Secure by Design**: Input validation, authentication, rate limiting, and security controls
 - **Production Ready**: Comprehensive logging, monitoring, error handling, and health checks
 - **Developer Friendly**: Clear documentation, automated testing, and easy local development setup
 - **Scalable Architecture**: Modular design supporting horizontal scaling and microservices patterns
